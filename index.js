@@ -1,3 +1,1 @@
-const name = "Zaeem";
-const age = 20;
-const isStudent = true;
+process.stdout.write("Hello, World!");
